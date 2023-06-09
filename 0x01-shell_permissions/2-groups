@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod +x groups.sh
+id -nG
