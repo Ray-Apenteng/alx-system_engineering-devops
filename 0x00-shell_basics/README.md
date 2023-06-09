@@ -34,8 +34,8 @@ mv [[:upper:]]* /tmp/u - Create a script that moves all files beginning with an 
 
 rm *~ - Create a script that deletes all files in the current working directory that end with the character ~
 
-mkdir -p welcome/to/school - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.You are only allowed to use two spaces (and lines) in your script, not more.
+mkdir -p welcome/to/school - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.You are only allowed to use two spaces (and lines) in your script, not more
 
-
+ls -amp - Write a command that lists all the files and directories of the current directory, separated by commas
 
 
